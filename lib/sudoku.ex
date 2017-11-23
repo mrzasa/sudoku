@@ -15,4 +15,7 @@ defmodule Sudoku do
   def hello do
     :world
   end
+
+  def is_valid(game) do
+  end
 end
